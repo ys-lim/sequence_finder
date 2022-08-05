@@ -3,4 +3,4 @@ Shiny app to find a desired sequence within a larger genomic region based on coo
 
 Returns a desired genomic sequence and its length within a larger genomic region. Able to handle both forward and reverse strands.
 
-![image](https://user-images.githubusercontent.com/68455070/183032365-ace99c02-ef9e-4504-8664-180e2d79acd8.png)
+![image](https://user-images.githubusercontent.com/68455070/183032656-d363e557-6fde-412b-8d18-41a0cd4fb719.png)
